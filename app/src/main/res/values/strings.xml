@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Project3App2</string>
+    <string name="place_type_string">placeType</string>
+    <string name="title_activity_restaurant">RestaurantActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="switch_to_attractions">Attractions</string>
+    <string name="switch_to_restaurants">Restaurants</string>
+    <string name="main_text">This application shows main attractions and restaurants for Chicago and it can be controlled by Project3 Application.</string>
+    <string name="not_granted_msg">Permission denied. You have to allow this permission and then restart the application in order for this application to fully function.</string>
+    <string-array name="attractionTitles">
+        <item>Navy Pier</item>
+        <item>Millenium Park</item>
+        <item>Skydeck chicago</item>
+        <item>Chicago Riverwalk</item>
+        <item>Museum Campus</item>
+        <item>Cloud Gate</item>
+        <item>Shedd Aquarium</item>
+        <item>Grant Park</item>
+    </string-array>
+    <string-array name="attractionPages">
+        <item>https://navypier.org/</item>
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://tickets.theskydeck.com/skydeck/home.html</item>
+        <item>https://www.chicagoriverwalk.us/</item>
+        <item>https://www.chicagoparkdistrict.com/parks-facilities/grant-park/</item>
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcloudgateinmillenniumpark.html</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.chicagoparkdistrict.com/parks-facilities/grant-park/</item>
+    </string-array>
+    <string-array name="restaurantTitles">
+        <item>Oriole</item>
+        <item>Girl &amp; The Goat</item>
+        <item>avec Restaurant</item>
+        <item>Tanta Chicago</item>
+        <item>Smyth</item>
+        <item>The Publican</item>
+    </string-array>
+    <string-array name="restaurantPages">
+        <item>https://www.oriolechicago.com</item>
+        <item>https://www.girlandthegoat.com</item>
+        <item>https://www.avecrestaurant.com/reservations-west-loop</item>
+        <item>https://www.tantachicago.com</item>
+        <item>https://www.smythandtheloyalist.com</item>
+        <item>https://www.thepublicanrestaurant.com</item>
+    </string-array>
+</resources>

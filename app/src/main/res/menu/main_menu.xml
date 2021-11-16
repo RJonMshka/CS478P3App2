@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/switchToAttractions"
+        android:title="@string/switch_to_attractions"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/switchToRestaurants"
+        android:title="@string/switch_to_restaurants"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+</menu>
